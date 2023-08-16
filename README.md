@@ -1,3 +1,3 @@
-# predict-churn-py
+Churn Prediction
 
-Source code and the raw data that I have used to build the machine learning classifiers can be found in this repository for reference. Hope this helps!
+The raw data and the source code I utilized to develop the machine learning classifiers are available in the provided repository for reference
